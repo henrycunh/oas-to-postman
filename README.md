@@ -7,8 +7,8 @@
       Convert OpenAPI specification files to Postman Collections
     </div>
     </br>
-    <a href="https://alpha.dev.magalu.com">
-    <img src="https://img.shields.io/static/v1?label=LIVE&message=Try it now!&color=green&style=for-the-badge" />
+    <a href="https://oas2pm.abaca.team">
+    <img src="https://img.shields.io/static/v1?label=live&message=demo&color=green&style=for-the-badge" />
     </a>
 </div>
 </br>
@@ -25,7 +25,6 @@
   1. [Development](#development)
   
 </details>
-</br>
 
 ## Using
 
